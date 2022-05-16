@@ -1,0 +1,11 @@
+# local package
+-e .
+
+# external requirements
+pandas
+scikit-learn
+lightgbm
+marshmallow_dataclass
+yaml
+click
+numpy
